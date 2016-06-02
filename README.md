@@ -1,0 +1,3 @@
+# CodeClinicJava
+
+Various small projects
