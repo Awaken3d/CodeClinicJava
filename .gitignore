@@ -5,6 +5,7 @@
 
 # Pictures
 *.jpg
+*.png
 
 # Package Files #
 *.jar
